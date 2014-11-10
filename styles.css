@@ -3,3 +3,19 @@
 /* Note: an asteroid image is included in this repo. 
 Feel free to use it if you like. */
 
+.player {
+    fill: #FF9F00;
+}
+
+.destination {
+    fill: red;
+}
+
+.enemy {
+    fill: black;
+}
+
+.link {
+    stroke: red;
+    stroke-width: 2;
+}
